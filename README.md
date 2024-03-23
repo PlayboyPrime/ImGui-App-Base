@@ -2,8 +2,6 @@
 A app base made with [ImGui Docking](https://github.com/ocornut/imgui/tree/docking). Has dockable tabs similar to google chrome
 
 This is my first ever release of an actual application so there might be some issues
-## Note
-You need to change the path in `ImGui App Base\resource\Resource.rc` line 54 to your path of the icon
 <hr>
 
 ![ImGui App Base](https://github.com/PlayboyPrime/ImGui-App-Base/assets/55946112/8f88db75-e54e-4e50-9c1f-0771eea7c1cf)
